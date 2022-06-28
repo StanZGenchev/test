@@ -1,0 +1,8 @@
+{
+    "guid": "ide-test",
+    "repository": {
+        "type": "git",
+        "branch": "master",
+        "url": "https://github.com/StanZGenchev/test.git"
+    }
+}
